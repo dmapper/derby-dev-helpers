@@ -6,6 +6,15 @@
     "type": "git",
     "url": "git://github.com/dmapper/derby-dev-helpers.git"
   },
+  "author": {
+    "name": "Pavel Zhukov",
+    "email": "cray0000@gmail.com",
+    "url": "https://github.com/cray0000"
+  },
+  "keywords": [
+    "derby",
+    "derbyjs"
+  ],
   "main": "index.js",
   "bin": {
     "derby-dev-helpers": "./bin/derby-dev-helpers.js"

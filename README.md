@@ -28,3 +28,7 @@ $ npm i derby-dev-helpers --save-dev
     ```
 
 3. Publish your package to npm.
+
+## Licence
+
+MIT
