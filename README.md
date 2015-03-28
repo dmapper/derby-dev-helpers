@@ -6,9 +6,9 @@
 
 Install as dev dependency:
 
-    ```bash
-    $ npm i derby-dev-helpers --save-dev
-    ```
+```bash
+$ npm i derby-dev-helpers --save-dev
+```
 
 ## Preprocess jade and coffee before publishing to npm: 
 
