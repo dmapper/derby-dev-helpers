@@ -1,0 +1,24 @@
+{
+  "name": "derby-dev-helpers",
+  "description": "Helpers for developing Derby plugins and components",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dmapper/derby-dev-helpers.git"
+  },
+  "main": "index.js",
+  "bin": {
+    "derby-dev-helpers": "./bin/derby-dev-helpers.js"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "shelljs": "^0.3.0",
+    "commander": "~2.6.0",
+    "derby-jade": ">=0.6.17",
+    "coffee-script": "*"
+  },
+  "devDependencies": {
+  }
+}
